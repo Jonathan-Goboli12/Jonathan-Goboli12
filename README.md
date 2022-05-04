@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Jonathan Goboli
-- 👀 I’m interested in Programming and Computer Hardware
-- 🌱 I’m currently learning Java and Web Development
+- 👀 I’m interested in Programming and Computer troubleshooting/repairing(Hardware & Software)
+- 🌱 I’m currently learning Web Development
